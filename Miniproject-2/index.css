@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background:linear-gradient(35deg,red,black);
+}
+
+
+
+.container{
+    background-color: cadetblue;
+    width: 20%;
+    height: 100vh;
+    text-align: center;
+    float: right;
+}
+
+.user_image{
+    display: block;
+    color: white;
+}
+a{
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    background-color: yellow;
+    color: red;
+    margin-top: 35px;
+    padding: 10px;
+    margin: 20px 5px;
+    border-radius: 10px;
+    border-radius: 1px solid red;
+}
+h3{
+    color: white;
+    text-align: center;
+
+}

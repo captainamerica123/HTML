@@ -1,0 +1,57 @@
+body{
+    background:linear-gradient(75deg,rgb(199, 36, 36),rgb(172, 196, 107),green);
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 10px;
+    background-color: chocolate;
+    border: 1px solid rgb(14, 13, 13);
+    padding: 10px;
+    border-radius: 30px;
+    width: 20px;
+}
+.menu
+{
+  text-align: center;
+  border-radius: 50px;
+}
+a:hover{
+    background-color: cadetblue;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(132, 189, 216);
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 20px;
+    
+}
+
+.heading{
+    margin-top: 40px;
+}
+h3{
+    color: rgb(7, 243, 19);
+    text-align: center;
+}
+p{
+    color: white;
+    padding: 10px;
+    text-align: justify;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+td{
+    color: rgb(247, 242, 245);
+    padding: auto;
+}
